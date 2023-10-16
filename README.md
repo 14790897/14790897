@@ -1,18 +1,18 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 150.3 kB Used in GitHub's Storage 
+> 📦 153.0 kB Used in GitHub's Storage 
  > 
-> 🏆 795 Contributions in the Year 2023
+> 🏆 798 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -46,17 +46,17 @@ Windows                  9 hrs 12 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 16/10/2023 14:50:25 UTC
+ Last Updated on 16/10/2023 18:40:47 UTC
 <!--END_SECTION:waka-->
 
 <picture>
