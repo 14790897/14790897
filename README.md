@@ -1,13 +1,15 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 2,036 Contributions in the Year 2024
+> 🏆 2,043 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -15,6 +17,35 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   12 hrs 56 mins      █████████████░░░░░░░░░░░░   52.79 % 
+TeX                      3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+JSON                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+
+🔥 Editors: 
+VS Code                  24 hrs 2 mins       █████████████████████████   98.12 % 
+Zsh                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+
+🐱‍💻 Projects: 
+freqtrade                16 hrs 22 mins      █████████████████░░░░░░░░   66.82 % 
+literature -review       3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+auto_generate            1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+particle_detect          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+vps-information-transfer-42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+
+💻 Operating System: 
+Windows                  23 hrs 27 mins      ████████████████████████░   95.73 % 
+Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -28,7 +59,7 @@ TeX                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 18:38:02 UTC
+ Last Updated on 04/11/2024 18:38:27 UTC
 <!--END_SECTION:waka-->
 
 <picture>
