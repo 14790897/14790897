@@ -1,15 +1,15 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C846%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C851%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -46,17 +46,17 @@ Windows                  38 hrs 44 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-JavaScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   31 repos            ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+JavaScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Jupyter Notebook         5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
 
 
- Last Updated on 21/01/2025 18:38:50 UTC
+ Last Updated on 22/01/2025 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 <picture>
