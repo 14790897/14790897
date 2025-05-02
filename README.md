@@ -1,15 +1,11 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C128%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
- > 
-> 🏆 547 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -17,34 +13,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   35.49 % 
-TeX                      1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-INI                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 22 mins       ████████████████████████░   95.50 % 
-Zsh                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-
-🐱‍💻 Projects: 
-xiaozhi-esp32            1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Embedded                 1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-literature -review       1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-vps-information-transfer-12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Jekyll-pages.github.io   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-💻 Operating System: 
-Windows                  4 hrs 22 mins       ████████████████████████░   95.50 % 
-Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,7 +26,7 @@ Jupyter Notebook         6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 18:41:05 UTC
+ Last Updated on 02/05/2025 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 <picture>
