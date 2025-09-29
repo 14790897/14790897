@@ -1,17 +1,19 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C576%20hrs%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,566 Contributions in the Year 2025
+> 🏆 1,599 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 165 Public Repositories 
+> 📜 167 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
@@ -47,17 +49,17 @@ Linux                    40 mins             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-C++                      27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-JavaScript               24 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Python                   33 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+C++                      27 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+HTML                     12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 28/09/2025 18:38:26 UTC
+ Last Updated on 29/09/2025 18:41:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
