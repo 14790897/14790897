@@ -1,19 +1,17 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C592%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,656 Contributions in the Year 2025
+> 🏆 1,667 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 167 Public Repositories 
+> 📜 168 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
@@ -58,7 +56,7 @@ C#                       4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 18:40:24 UTC
+ Last Updated on 03/10/2025 18:40:32 UTC
 <!--END_SECTION:waka-->
 
 <picture>
