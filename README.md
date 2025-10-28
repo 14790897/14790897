@@ -1,7 +1,7 @@
 ![liuweiqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=14790897&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
 
-<iframe src="https://mygithub.14790897.xyz/14790897/" width="100%" height="800" style="border:1px solid black;">
-</iframe>
+<!-- <iframe src="https://mygithub.14790897.xyz/14790897/" width="100%" height="800" style="border:1px solid black;">
+</iframe> -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C684%20hrs%204%20mins-blue)
