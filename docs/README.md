@@ -10,7 +10,8 @@ This directory is configured to work with GitHub Pages.
 4. Under "Folder", select `/docs`
 5. Click "Save"
 
-After a few moments, your site will be available at: `https://14790897.github.io/14790897/`
+After a few moments, your site will be available at: `https://<username>.github.io/<repository>/`
+(For this repository: `https://14790897.github.io/14790897/`)
 
 ## Configuration
 
