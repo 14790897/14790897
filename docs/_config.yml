@@ -8,7 +8,7 @@ lang: zh-CN
 # You can uncomment and choose one:
 # theme: minima
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
