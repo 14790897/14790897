@@ -1,6 +1,3 @@
----
-title: "liuweiqing - 简历"
----
 
 <div style="max-width: 900px; margin: 0 auto; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
