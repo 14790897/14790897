@@ -1,0 +1,39 @@
+# Jekyll configuration for GitHub Pages
+
+lang: zh-CN
+
+# Theme settings
+# GitHub Pages supports these themes out of the box
+# You can uncomment and choose one:
+# theme: minima
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Enable relative links for assets
+baseurl: ""
+url: ""
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Allow index.md to work as the home page
+relative_links:
+  enabled: true
+  collections: true
+
+# Optional front matter means you don't need YAML front matter
+optional_front_matter:
+  enabled: true
