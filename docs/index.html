@@ -33,7 +33,26 @@
     .project.purple{border-left-color:#a855f7}
     .project a{color:var(--blue);text-decoration:none}
     img.avatar{width:160px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);border:4px solid #fff}
-    @media (max-width:720px){.card{flex-direction:column}.card div + div{margin-left:0;margin-top:18px}}
+    @media screen and (max-width:720px){.card{flex-direction:column}.card div + div{margin-left:0;margin-top:18px}}
+    @media print{
+      @page{size:A4;margin:1.5cm}
+      body{margin:0;background:#fff;color:#000;font-size:11pt;line-height:1.4}
+      .container{max-width:100%;padding:0;margin:0}
+      .card,.skills,.project{box-shadow:none;page-break-inside:avoid;margin:10px 0}
+      .card{background:#fff;border:1px solid #ddd;padding:15px;display:flex!important;flex-direction:row!important}
+      .left{flex:1!important}
+      .card>div:last-child{flex-shrink:0!important;margin-left:20px!important;margin-top:0!important}
+      .skills{background:#fff;border:1px solid #ddd}
+      .skill{page-break-inside:avoid}
+      .project{page-break-inside:avoid;margin:12px 0;padding:12px;background:#fff;border:1px solid #ddd;border-left-width:3px}
+      h2{font-size:14pt;margin-top:15px;page-break-after:avoid}
+      h3{font-size:12pt;page-break-after:avoid}
+      hr{margin:15px 0}
+      .note{page-break-inside:avoid;background:#f8f8f8;border-left-width:3px}
+      img.avatar{width:100px;box-shadow:none}
+      a{color:#000;text-decoration:underline}
+      .grid{gap:10px}
+    }
   </style>
 </head>
 <body>
