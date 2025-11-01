@@ -33,7 +33,13 @@
     .project.purple{border-left-color:#a855f7}
     .project a{color:var(--blue);text-decoration:none}
     img.avatar{width:160px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.15);border:4px solid #fff}
-    @media screen and (max-width:720px){.card{flex-direction:column}.card div + div{margin-left:0;margin-top:18px}}
+  @media screen and (max-width:720px){.card{flex-direction:column}.card div + div{margin-left:0;margin-top:18px}}
+  /* social inline list */
+  .social-list{display:flex;align-items:center;gap:14px;list-style:none;padding:0;margin:8px 0}
+  .social-link{display:inline-flex;align-items:center;gap:8px;color:var(--blue);text-decoration:none;font-size:15px}
+  .social-link:hover{text-decoration:underline}
+  .social-icon{width:18px;height:18px;display:inline-block;flex:0 0 18px}
+  .sr-only{position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px);white-space:nowrap;border:0;padding:0;margin:-1px}
     @media print{
       @page{size:A4;margin:1.5cm}
       body{margin:0;background:#fff;color:#000;font-size:11pt;line-height:1.4}
@@ -67,9 +73,45 @@
 
         <p class="meta"><strong>邮箱：</strong><a href="mailto:liuweiqing147@gmail.com">liuweiqing147@gmail.com</a></p>
 
-  <p class="meta"><strong>GitHub：</strong><a href="https://github.com/14790897">14790897</a></p>
-  <p class="meta"><strong>B站：</strong><a href="https://space.bilibili.com/374799716" target="_blank" rel="noopener">374799716</a></p>
-  <p class="meta"><strong>居住位置：</strong><span>上海</span></p>
+        <ul class="social-list" aria-label="社交和位置">
+          <li>
+            <a class="social-link" href="https://github.com/14790897" target="_blank" rel="noopener" aria-label="GitHub">
+              <span class="social-icon" aria-hidden="true">
+                <!-- GitHub SVG -->
+                <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="18" height="18">
+                  <path d="M12 .5C5.73.5.75 5.48.75 11.76c0 4.9 3.17 9.06 7.57 10.53.55.1.75-.24.75-.53 0-.26-.01-1.12-.02-2.03-3.08.67-3.73-1.36-3.73-1.36-.5-1.27-1.22-1.61-1.22-1.61-.99-.68.08-.67.08-.67 1.1.08 1.68 1.13 1.68 1.13.97 1.66 2.55 1.18 3.17.9.1-.7.38-1.18.69-1.45-2.46-.28-5.05-1.23-5.05-5.48 0-1.21.43-2.2 1.13-2.98-.11-.28-.49-1.42.11-2.96 0 0 .92-.29 3.02 1.13a10.5 10.5 0 0 1 5.5 0c2.1-1.42 3.02-1.13 3.02-1.13.6 1.54.22 2.68.11 2.96.7.78 1.13 1.77 1.13 2.98 0 4.26-2.59 5.19-5.06 5.47.39.34.73 1.01.73 2.04 0 1.47-.01 2.66-.01 3.02 0 .29.2.64.76.53C19.08 20.82 22.25 16.66 22.25 11.76 22.25 5.48 17.27.5 11 .5z"/>
+                </svg>
+              </span>
+              <span class="link-text">14790897</span>
+              <span class="sr-only">GitHub</span>
+            </a>
+          </li>
+
+          <li>
+            <a class="social-link" href="https://space.bilibili.com/374799716" target="_blank" rel="noopener" aria-label="Bilibili">
+              <span class="social-icon" aria-hidden="true">
+                <!-- Bilibili SVG (simple TV icon) -->
+                <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="18" height="18">
+                  <path d="M3 6.5C3 5.67 3.67 5 4.5 5h15c.83 0 1.5.67 1.5 1.5v9c0 .83-.67 1.5-1.5 1.5h-15A1.5 1.5 0 0 1 3 15.5v-9zM8 8H6v6h2V8zm6 0h-2v6h2V8z"/>
+                </svg>
+              </span>
+              <span class="link-text">374799716</span>
+              <span class="sr-only">Bilibili</span>
+            </a>
+          </li>
+
+          <li>
+            <span class="social-link" aria-hidden="false">
+              <span class="social-icon" aria-hidden="true">
+                <!-- Location SVG -->
+                <svg viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="18" height="18">
+                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/>
+                </svg>
+              </span>
+              <span class="link-text">上海</span>
+            </span>
+          </li>
+        </ul>
 
         <div class="note">
           <p>🚀 一个热爱开源的全栈开发者，擅长使用 <strong>JavaScript/TypeScript</strong>、<strong>Python</strong> 等语言开发网站、自动化脚本和浏览器扩展。</p>
