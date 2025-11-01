@@ -4,15 +4,13 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,152 Contributions in the Year 2025
+> 🏆 2,166 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +57,7 @@ C                        7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:42:40 UTC
+ Last Updated on 01/11/2025 18:39:17 UTC
 <!--END_SECTION:waka-->
 
 <picture>
