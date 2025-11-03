@@ -4,15 +4,13 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C709%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,171 Contributions in the Year 2025
+> 🏆 2,181 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -20,6 +18,32 @@
  > 
 > 🔑 32 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      10 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   33.78 % 
+Python                   7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Markdown                 4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+INI                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 30 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+E-Ink Module             9 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+notebook                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+beautiful-eyes           3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+kicad                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+xiaozhi-esp32            1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+
+💻 Operating System: 
+Windows                  30 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -33,7 +57,7 @@ C                        7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 18:38:58 UTC
+ Last Updated on 03/11/2025 18:40:41 UTC
 <!--END_SECTION:waka-->
 
 <picture>
