@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,545 Contributions in the Year 2025
+> 🏆 2,552 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 182 Public Repositories 
  > 
-> 🔑 34 Private Repositories 
+> 🔑 35 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -51,17 +51,17 @@ Linux                    1 hr 6 mins         █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               47 repos            ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Python                   37 repos            █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-C++                      32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-JavaScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-C                        7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               47 repos            ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Python                   37 repos            █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+C++                      32 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+JavaScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Kotlin                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 10/12/2025 18:44:40 UTC
+ Last Updated on 11/12/2025 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 <picture>
