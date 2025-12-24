@@ -1,0 +1,4 @@
+docs/node_modules
+docs/package-lock.json
+docs/*.pdf
+index-frontend.html
