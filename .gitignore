@@ -3,3 +3,5 @@ docs/package-lock.json
 docs/*.pdf
 index-frontend.html
 index-ai.html
+index-hardware.html
+*.pdf

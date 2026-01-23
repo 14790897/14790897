@@ -13,7 +13,7 @@ const path = require('path');
   await page.setViewport({ width: 1200, height: 1600 });
   
   // 加载本地 HTML 文件
-  const htmlPath = path.join(__dirname, 'index-ai.html');
+  const htmlPath = path.join(__dirname, 'index-hardware.html');
   await page.goto(`file://${htmlPath}`, { waitUntil: 'networkidle0' });
   
   // 等待页面完全渲染
@@ -21,7 +21,7 @@ const path = require('path');
   
   // 生成 PDF，保留链接
   await page.pdf({
-    path: 'resume-ai.pdf',
+    path: 'resume-hardware.pdf',
     format: 'A4',
     printBackground: true,
     displayHeaderFooter: false,
