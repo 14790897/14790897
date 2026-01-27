@@ -13,27 +13,27 @@ const path = require('path');
   await page.setViewport({ width: 1200, height: 1600 });
   
   // 加载本地 HTML 文件
-  const htmlPath = path.join(__dirname, 'index-hardware.html');
-  await page.goto(`file://${htmlPath}`, { waitUntil: 'networkidle0' });
-  
+  const htmlPath = path.join(__dirname, "index-expressif.html");
+  await page.goto(`file://${htmlPath}`, { waitUntil: "networkidle0" });
+
   // 等待页面完全渲染
-  await new Promise(resolve => setTimeout(resolve, 1000));
-  
+  await new Promise((resolve) => setTimeout(resolve, 1000));
+
   // 生成 PDF，保留链接
   await page.pdf({
-    path: 'resume-hardware.pdf',
-    format: 'A4',
+    path: "resume-expressif.pdf",
+    format: "A4",
     printBackground: true,
     displayHeaderFooter: false,
     preferCSSPageSize: false,
     margin: {
-      top: '1cm',
-      right: '1cm',
-      bottom: '1cm',
-      left: '1cm'
-    }
+      top: "1cm",
+      right: "1cm",
+      bottom: "1cm",
+      left: "1cm",
+    },
   });
-  
-  console.log('PDF 生成成功: resume-frontend.pdf');
+
+  console.log("PDF 生成成功: resume-expressif.pdf");
   await browser.close();
 })();
