@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C979%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2026
+> 🏆 153 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -48,17 +48,17 @@ Windows                  1 hr 40 mins        ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-Python                   37 repos            █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-C++                      35 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-JavaScript               27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Kotlin                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   36 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+C++                      35 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JavaScript               27 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Kotlin                   3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 
 
 
- Last Updated on 01/02/2026 18:47:24 UTC
+ Last Updated on 02/02/2026 18:48:33 UTC
 <!--END_SECTION:waka-->
 
 <picture>
