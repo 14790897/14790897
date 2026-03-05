@@ -2,26 +2,30 @@
 // 安装依赖: npm install puppeteer
 // 运行: node generate-pdf.js
 
-const puppeteer = require('puppeteer');
-const path = require('path');
+const puppeteer = require("puppeteer");
+const path = require("path");
+
+// 配置变量
+const HTML_FILE = "index-frontend.html";
+const PDF_FILE = "resume-frontend2.pdf";
 
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  
+
   // 设置视口大小
   await page.setViewport({ width: 1200, height: 1600 });
-  
+
   // 加载本地 HTML 文件
-  const htmlPath = path.join(__dirname, "index-expressif.html");
+  const htmlPath = path.join(__dirname, HTML_FILE);
   await page.goto(`file://${htmlPath}`, { waitUntil: "networkidle0" });
 
   // 等待页面完全渲染
   await new Promise((resolve) => setTimeout(resolve, 1000));
 
-  // 生成 PDF，保留链接
+  // 生成 PDF 保留链接
   await page.pdf({
-    path: "resume-expressif.pdf",
+    path: PDF_FILE,
     format: "A4",
     printBackground: true,
     displayHeaderFooter: false,
@@ -34,6 +38,6 @@ const path = require('path');
     },
   });
 
-  console.log("PDF 生成成功: resume-expressif.pdf");
+  console.log(`PDF 生成成功: ${PDF_FILE}`);
   await browser.close();
 })();
