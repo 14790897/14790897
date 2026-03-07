@@ -6,8 +6,8 @@ const puppeteer = require("puppeteer");
 const path = require("path");
 
 // 配置变量
-const HTML_FILE = "index-frontend.html";
-const PDF_FILE = "resume-frontend2.pdf";
+const HTML_FILE = "index-frontend-new.html";
+const PDF_FILE = "resume-frontend-new.pdf";
 
 (async () => {
   const browser = await puppeteer.launch();
