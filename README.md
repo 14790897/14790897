@@ -4,15 +4,15 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C114%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C119%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 516 Contributions in the Year 2026
+> 🏆 524 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,40 +26,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
-Other                    4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-HTML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   11 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.06 % 
+Other                    4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Markdown                 4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+HTML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-deep_research            7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.09 % 
-resume                   4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Novel-Factory Multi-Agent3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-boxmot                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Active Tech-Radar RAG    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+resume                   8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
+deep_research            7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Novel-Factory Multi-Agent3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Active Tech-Radar RAG    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+boxmot                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 💻 Operating System: 
-Windows                  20 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Python                   40 repos            █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Python                   41 repos            █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
 
 
- Last Updated on 08/04/2026 18:54:16 UTC
+ Last Updated on 09/04/2026 18:50:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
