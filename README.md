@@ -4,15 +4,15 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C136%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C136%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 566 Contributions in the Year 2026
+> 🏆 569 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,42 +26,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.71 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Other                    2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-TypeScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HTML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Python                   9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Markdown                 2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+TypeScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 51 mins      █████████████████████████   98.86 % 
-Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  21 hrs 58 mins      █████████████████████████   98.76 % 
+Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-resume                   11 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.67 % 
-paper-ai                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-notebook                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Active Tech-Radar RAG    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-mcp                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+resume                   9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   44.20 % 
+paper-ai                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+notebook                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+mcp                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+program                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Windows                  24 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Python                   42 repos            █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Python                   42 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
 
 
- Last Updated on 14/04/2026 18:52:13 UTC
+ Last Updated on 15/04/2026 18:53:31 UTC
 <!--END_SECTION:waka-->
 
 <picture>
