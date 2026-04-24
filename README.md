@@ -4,7 +4,7 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C174%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C178%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -12,11 +12,11 @@
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 671 Contributions in the Year 2026
+> 🏆 686 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 202 Public Repositories 
+> 📜 203 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
@@ -26,40 +26,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-HTML                     4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-TypeScript               4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Vue                      3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Text                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+HTML                     4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+TypeScript               4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Text                     3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Vue                      2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-handwriting-web          13 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.94 % 
-resume                   10 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-paper-ai                 5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-My_AHK2_Scripts          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-vps-information-transfer-34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+resume                   11 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.28 % 
+handwriting-web          9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.92 % 
+paper-ai                 5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+notebook                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+My_AHK2_Scripts          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Windows                  31 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Python                   42 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Python                   42 repos            █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
 
 
- Last Updated on 23/04/2026 18:51:10 UTC
+ Last Updated on 24/04/2026 18:49:17 UTC
 <!--END_SECTION:waka-->
 
 <picture>
