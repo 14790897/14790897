@@ -4,7 +4,7 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C225%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -12,13 +12,13 @@
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 790 Contributions in the Year 2026
+> 🏆 795 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 205 Public Repositories 
  > 
-> 🔑 39 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -48,20 +48,20 @@ vps-information-transfer-2 hrs 34 mins       ███░░░░░░░░�
 Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
-TypeScript               45 repos            █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Python                   44 repos            █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Python                   45 repos            █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+TypeScript               45 repos            █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 06/05/2026 19:07:00 UTC
+ Last Updated on 07/05/2026 19:07:17 UTC
 <!--END_SECTION:waka-->
 
 <picture>
