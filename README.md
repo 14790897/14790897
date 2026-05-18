@@ -4,13 +4,15 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C284%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 855 Contributions in the Year 2026
+> 🏆 857 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -58,7 +60,7 @@ Java                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 18:51:04 UTC
+ Last Updated on 18/05/2026 19:07:56 UTC
 <!--END_SECTION:waka-->
 
 <picture>
