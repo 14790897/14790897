@@ -4,19 +4,21 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C331%20hrs%209%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 938 Contributions in the Year 2026
+> 🏆 952 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 211 Public Repositories 
  > 
-> 🔑 39 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -24,40 +26,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Markdown                 5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-TeX                      4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Python                   7 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Markdown                 6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+TeX                      4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-skills-hub            6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-literature-review        4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-MiQi-Desktop             3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-notebook                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-raspa-mcp                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+my-skills-hub            6 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+literature-review        4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+notebook                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+MiQi-Desktop             3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+experiment-transcribe    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  22 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-TypeScript               47 repos            █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   50 repos            ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+TypeScript               47 repos            █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Java                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 19:25:45 UTC
+ Last Updated on 29/05/2026 19:23:10 UTC
 <!--END_SECTION:waka-->
 
 <picture>
