@@ -4,7 +4,7 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
@@ -12,7 +12,7 @@
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 968 Contributions in the Year 2026
+> 🏆 974 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -20,46 +20,20 @@
  > 
 > 🔑 40 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   8 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.58 % 
-Markdown                 4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Go                       3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-TypeScript               2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 14 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-miqi-skillshub           6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-notebook                 5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-MiQi-Desktop             3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-experiment-transcribe    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-handwriting-web          1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-
-💻 Operating System: 
-Windows                  23 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   51 repos            ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-TypeScript               46 repos            █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   51 repos            ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+TypeScript               46 repos            █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
 
 
- Last Updated on 03/06/2026 19:48:51 UTC
+ Last Updated on 04/06/2026 19:19:53 UTC
 <!--END_SECTION:waka-->
 
 <picture>
