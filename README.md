@@ -4,7 +4,7 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C405%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C406%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
@@ -12,13 +12,13 @@
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,084 Contributions in the Year 2026
+> 🏆 1,089 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 213 Public Repositories 
+> 📜 214 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -50,7 +50,7 @@ Windows                  16 hrs 9 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Python                   52 repos            ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
 TypeScript               46 repos            █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 HTML                     12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
@@ -60,7 +60,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 19:15:30 UTC
+ Last Updated on 24/06/2026 19:06:09 UTC
 <!--END_SECTION:waka-->
 
 <picture>
