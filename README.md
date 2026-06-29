@@ -4,15 +4,15 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C415%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,218 Contributions in the Year 2026
+> 🏆 1,240 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,17 +50,17 @@ Windows                  14 hrs 17 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   52 repos            ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-TypeScript               47 repos            █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-HTML                     12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Python                   52 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+HTML                     12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
 
 
- Last Updated on 28/06/2026 18:53:53 UTC
+ Last Updated on 29/06/2026 19:14:00 UTC
 <!--END_SECTION:waka-->
 
 <picture>
