@@ -4,21 +4,21 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C440%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C446%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.5 MB Used in GitHub's Storage 
+> 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,376 Contributions in the Year 2026
+> 🏆 1,404 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 217 Public Repositories 
+> 📜 215 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -26,41 +26,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-YAML                     5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Markdown                 3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-C++                      3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Python                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+TypeScript               12 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+YAML                     6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Python                   4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+C++                      3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 55 mins      █████████████████████████   99.81 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  42 hrs 16 mins      █████████████████████████   99.85 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             17 hrs 6 mins       █████████████░░░░░░░░░░░░   51.88 % 
-gamepad-xueersi          5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-MY-ESPHOME               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-matter_weather_station   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-my-skills-hub            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+MiQi-Desktop             26 hrs 24 mins      ████████████████░░░░░░░░░   62.36 % 
+gamepad-xueersi          5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+MY-ESPHOME               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+matter_weather_station   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+stirring_plot            50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Windows                  32 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-HTML                     12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   53 repos            ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 
 
 
- Last Updated on 02/07/2026 19:00:41 UTC
+ Last Updated on 03/07/2026 19:58:46 UTC
 <!--END_SECTION:waka-->
 
 <picture>
