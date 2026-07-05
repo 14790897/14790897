@@ -12,7 +12,7 @@
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,404 Contributions in the Year 2026
+> 🏆 1,408 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,41 +26,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   30.42 % 
-YAML                     5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Markdown                 4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Python                   4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-C++                      3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+TypeScript               12 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+YAML                     7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Markdown                 4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Python                   4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+C++                      3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 26 mins      █████████████████████████   99.84 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  40 hrs 50 mins      █████████████████████████   99.85 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             26 hrs 12 mins      █████████████████░░░░░░░░   66.34 % 
-gamepad-xueersi          5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-MY-ESPHOME               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-matter_weather_station   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-stirring_plot            50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+MiQi-Desktop             26 hrs 12 mins      ████████████████░░░░░░░░░   64.07 % 
+gamepad-xueersi          5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+MY-ESPHOME               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+auto_display_light       1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+stirring_plot            50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Windows                  39 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   53 repos            ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Python                   53 repos            ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+C++                      37 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Kotlin                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 
 
 
- Last Updated on 04/07/2026 19:45:56 UTC
+ Last Updated on 05/07/2026 19:52:30 UTC
 <!--END_SECTION:waka-->
 
 <picture>
