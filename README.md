@@ -4,9 +4,9 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C590%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C593%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -14,7 +14,7 @@
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2,883 Contributions in the Year 2026
+> 🏆 2,905 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,46 +28,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Markdown                 7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-TypeScript               6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Other                    3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-YAML                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Python                   13 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.78 % 
+Markdown                 6 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+TypeScript               6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Other                    5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+YAML                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 41 mins      ███████████████████████░░   92.70 % 
-Claude Code              2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+VS Code                  36 hrs 18 mins      ███████████████████████░░   93.19 % 
+Claude Code              2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             28 hrs 49 mins      ████████████████████░░░░░   79.31 % 
-crypto-info-scraper      3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-freqtrade                2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-my-books                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-literature-review        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+MiQi-Desktop             32 hrs 56 mins      █████████████████████░░░░   84.52 % 
+crypto-info-scraper      3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+freqtrade                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+my-books                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+scout                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Windows                  36 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 30 mins (97.67%)
+⏱ AI Coding Time: 38 hrs 7 mins (97.84%)
 
-✍️ 12,677 lines written by AI, 5 lines written by hand (99.96% AI-written)
+✍️ 12,456 lines written by AI, 5 lines written by hand (99.96% AI-written)
 
-🔤 28,696,805 Input Tokens, 1,709,006 Output Tokens
+🔤 33,069,116 Input Tokens, 1,767,217 Output Tokens
 
-💵 $2638.60 Estimated AI Cost This Week
+💵 $2908.02 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 334 AI Prompts
+🧠 53 AI Sessions, 343 AI Prompts
 
-Deepseek                 10,758 lines        █████████████████████████   100.00 % 
+Deepseek                 10,531 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 578 characters per prompt
+📄 Detailed Prompter — average 586 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
@@ -85,7 +85,7 @@ HTML                     15 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:03:12 UTC
+ Last Updated on 20/08/2026 19:11:03 UTC
 <!--END_SECTION:waka-->
 
 <picture>
