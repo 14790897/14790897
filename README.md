@@ -14,7 +14,7 @@
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2,951 Contributions in the Year 2026
+> 🏆 2,984 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,48 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.91 % 
-Markdown                 6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-TypeScript               5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Text                     4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Other                    3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   12 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   36.54 % 
+Text                     6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Markdown                 4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+TypeScript               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 23 mins      ██████████████████████░░░   86.75 % 
-Claude Code              5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+VS Code                  28 hrs 59 mins      █████████████████████░░░░   84.61 % 
+Claude Code              5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             26 hrs 1 min        ████████████████░░░░░░░░░   65.63 % 
-my-books                 8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-crypto-info-scraper      4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-cyrano-love-letter       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-vps-information-transfer-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+MiQi-Desktop             17 hrs 37 mins      █████████████░░░░░░░░░░░░   51.42 % 
+my-books                 10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+crypto-info-scraper      6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+cyrano-love-letter       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+vps-information-transfer-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  39 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 39 mins (94.98%)
+⏱ AI Coding Time: 31 hrs 47 mins (92.78%)
 
-✍️ 10,915 lines written by AI, 10 lines written by hand (99.91% AI-written)
+✍️ 6,785 lines written by AI, 10 lines written by hand (99.85% AI-written)
 
-🔤 31,632,391 Input Tokens, 1,732,427 Output Tokens
+🔤 36,118,072 Input Tokens, 1,533,496 Output Tokens
 
-💵 $2169.75 Estimated AI Cost This Week
+💵 $2067.70 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 471 AI Prompts
+🧠 66 AI Sessions, 467 AI Prompts
 
-Deepseek                 9,377 lines         █████████████████████████   100.00 % 
+Deepseek                 5,218 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 512 characters per prompt
+🤖 AI-Driven — 99.85% of written lines came from AI
+📝 Concise Prompter — average 384 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ HTML                     16 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:03 UTC
+ Last Updated on 24/08/2026 19:10:23 UTC
 <!--END_SECTION:waka-->
 
 <picture>
