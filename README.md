@@ -4,9 +4,9 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C608%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C615%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -14,7 +14,7 @@
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2,984 Contributions in the Year 2026
+> 🏆 3,009 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,55 +28,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   36.54 % 
-Text                     6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Markdown                 4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-TypeScript               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Other                    3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Python                   12 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Text                     11 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+TypeScript               4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Markdown                 4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 59 mins      █████████████████████░░░░   84.61 % 
-Claude Code              5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+VS Code                  34 hrs 57 mins      ██████████████████████░░░   86.61 % 
+Claude Code              5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             17 hrs 37 mins      █████████████░░░░░░░░░░░░   51.42 % 
-my-books                 10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-crypto-info-scraper      6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-cyrano-love-letter       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-vps-information-transfer-2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+MiQi-Desktop             19 hrs 36 mins      ████████████░░░░░░░░░░░░░   48.59 % 
+my-books                 14 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.70 % 
+crypto-info-scraper      5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+cyrano-love-letter       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Embedded                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  34 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 47 mins (92.78%)
+⏱ AI Coding Time: 33 hrs 51 mins (83.88%)
 
-✍️ 6,785 lines written by AI, 10 lines written by hand (99.85% AI-written)
+✍️ 4,567 lines written by AI, 21 lines written by hand (99.54% AI-written)
 
-🔤 36,118,072 Input Tokens, 1,533,496 Output Tokens
+🔤 38,200,585 Input Tokens, 1,380,974 Output Tokens
 
-💵 $2067.70 Estimated AI Cost This Week
+💵 $1911.60 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 467 AI Prompts
+🧠 71 AI Sessions, 493 AI Prompts
 
-Deepseek                 5,218 lines         █████████████████████████   100.00 % 
+Deepseek                 4,205 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📝 Concise Prompter — average 384 characters per prompt
+🤖 AI-Driven — 99.54% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   54 repos            ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-TypeScript               50 repos            █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+TypeScript               49 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 JavaScript               28 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 HTML                     16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
@@ -85,7 +85,7 @@ HTML                     16 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:10:23 UTC
+ Last Updated on 25/08/2026 19:09:23 UTC
 <!--END_SECTION:waka-->
 
 <picture>
