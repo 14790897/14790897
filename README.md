@@ -12,13 +12,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 3.5 MB Used in GitHub's Storage 
+> 📦 3.6 MB Used in GitHub's Storage 
  > 
-> 🏆 3,221 Contributions in the Year 2026
+> 🏆 3,238 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 222 Public Repositories 
+> 📜 223 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
@@ -28,47 +28,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-TypeScript               13 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Markdown                 9 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Text                     9 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other                    5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Python                   19 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.18 % 
+TypeScript               13 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Text                     9 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Markdown                 8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Other                    5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-VS Code                  57 hrs 19 mins      ███████████████████████░░   91.82 % 
-Claude Code              5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+VS Code                  58 hrs 30 mins      ██████████████████████░░░   89.83 % 
+Claude Code              6 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             32 hrs 13 mins      █████████████░░░░░░░░░░░░   51.60 % 
-my-books                 12 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-crypto-info-scraper      7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-literature-review        2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-particle_detect          2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+MiQi-Desktop             32 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.46 % 
+crypto-info-scraper      10 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+my-books                 9 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+particle_detect          4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+literature-review        2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 💻 Operating System: 
-Windows                  62 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  65 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 4 mins (91.41%)
+⏱ AI Coding Time: 60 hrs 1 min (92.17%)
 
-✍️ 14,162 lines written by AI, 38 lines written by hand (99.73% AI-written)
+✍️ 14,630 lines written by AI, 39 lines written by hand (99.73% AI-written)
 
-🔤 54,547,616 Input Tokens, 3,971,749 Output Tokens
+🔤 61,227,741 Input Tokens, 3,978,924 Output Tokens
 
-💵 $4367.25 Estimated AI Cost This Week
+💵 $4443.73 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 536 AI Prompts
+🧠 117 AI Sessions, 572 AI Prompts
 
-Deepseek                 14,946 lines        █████████████████████████   100.00 % 
+Deepseek                 15,377 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
+📄 Detailed Prompter — average 783 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
@@ -76,17 +76,17 @@ K                        0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   55 repos            ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-JavaScript               28 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-HTML                     17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Python                   56 repos            ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+TypeScript               48 repos            █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+C++                      36 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+JavaScript               28 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+HTML                     17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 
 
 
- Last Updated on 05/09/2026 20:38:25 UTC
+ Last Updated on 06/09/2026 20:43:30 UTC
 <!--END_SECTION:waka-->
 
 <picture>
