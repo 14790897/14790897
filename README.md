@@ -4,17 +4,17 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C781%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C789%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-561%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-570%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,426 Contributions in the Year 2026
+> 🏆 3,451 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,48 +28,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Text                     16 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Python                   12 hrs 30 mins      █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Markdown                 8 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Other                    4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Text                     17 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+TypeScript               11 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Python                   10 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Markdown                 8 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Other                    4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-VS Code                  61 hrs 49 mins      ███████████████████████░░   91.59 % 
-Claude Code              5 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+VS Code                  56 hrs 55 mins      ███████████████████████░░   92.16 % 
+Claude Code              4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🐱‍💻 Projects: 
-MiQi-Desktop             27 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   40.62 % 
-my-books                 17 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-crypto-info-scraper      5 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-moyu-reader              5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-particle_detect          3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+MiQi-Desktop             19 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.99 % 
+my-books                 19 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   31.87 % 
+moyu-reader              5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+crypto-info-scraper      5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+particle_detect          3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Windows                  67 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  61 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 35 mins (85.32%)
+⏱ AI Coding Time: 50 hrs 22 mins (81.54%)
 
-✍️ 23,132 lines written by AI, 127 lines written by hand (99.45% AI-written)
+✍️ 23,956 lines written by AI, 126 lines written by hand (99.48% AI-written)
 
-🔤 75,906,060 Input Tokens, 4,073,493 Output Tokens
+🔤 73,829,115 Input Tokens, 3,940,748 Output Tokens
 
-💵 $5067.79 Estimated AI Cost This Week
+💵 $4999.73 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 642 AI Prompts
+🧠 129 AI Sessions, 619 AI Prompts
 
-Claude-Code              11,463 lines        █████████████░░░░░░░░░░░░   50.78 % 
-Deepseek                 11,111 lines        ████████████░░░░░░░░░░░░░   49.22 % 
+Claude-Code              14,682 lines        ████████████████░░░░░░░░░   63.78 % 
+Deepseek                 8,337 lines         █████████░░░░░░░░░░░░░░░░   36.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.45% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
+🤖 AI-Driven — 99.48% of written lines came from AI
+📄 Detailed Prompter — average 556 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.44% of changed lines were hand-edited
+🚀 High AI Trust — 2.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ HTML                     17 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:58:12 UTC
+ Last Updated on 15/09/2026 21:40:35 UTC
 <!--END_SECTION:waka-->
 
 <picture>
