@@ -14,7 +14,7 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,809 Contributions in the Year 2026
+> 🏆 3,823 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,50 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     13 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Markdown                 8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Python                   8 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Other                    4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-C++                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Markdown                 10 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+Text                     10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Python                   6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Other                    3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+C++                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 46 mins      ██████████████████████░░░   86.88 % 
-Claude Code              5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Codex Vscode             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  32 hrs 51 mins      ███████████████████░░░░░░   77.49 % 
+Claude Code              8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Codex Vscode             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-my-books                 22 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.30 % 
-crypto-info-scraper      11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-handwriting-web          4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-esp32-clock              3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-MiQi-Desktop             2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+my-books                 19 hrs 14 mins      ███████████░░░░░░░░░░░░░░   45.38 % 
+crypto-info-scraper      9 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+handwriting-web          4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+esp32-clock              3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+MiQi-Desktop             2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-Windows                  46 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 30 mins (77.8%)
+⏱ AI Coding Time: 33 hrs 48 mins (79.74%)
 
-✍️ 26,066 lines written by AI, 45 lines written by hand (99.83% AI-written)
+✍️ 21,867 lines written by AI, 43 lines written by hand (99.8% AI-written)
 
-🔤 35,570,117 Input Tokens, 5,756,593 Output Tokens
+🔤 41,680,559 Input Tokens, 5,591,634 Output Tokens
 
-💵 $5152.94 Estimated AI Cost This Week
+💵 $4545.97 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 497 AI Prompts
+🧠 97 AI Sessions, 492 AI Prompts
 
-Claude-Code              23,581 lines        █████████████████████████   98.45 % 
-Deepseek                 371 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Claude-Code              19,350 lines        █████████████████████████   98.12 % 
+Deepseek                 371 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📝 Concise Prompter — average 380 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ HTML                     19 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:51:26 UTC
+ Last Updated on 02/10/2026 22:28:31 UTC
 <!--END_SECTION:waka-->
 
 <picture>
