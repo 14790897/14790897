@@ -4,17 +4,17 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C964%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C972%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-734%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-740%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,177 Contributions in the Year 2026
+> 🏆 4,195 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,50 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Python                   12 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Other                    10 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Text                     9 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-TypeScript               4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Markdown                 13 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Other                    9 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Python                   8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Text                     7 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+TypeScript               4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 🔥 Editors: 
-VS Code                  49 hrs 38 mins      ████████████████████░░░░░   81.04 % 
-Claude Code              10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Codex Vscode             1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+VS Code                  43 hrs 9 mins       ████████████████████░░░░░   78.67 % 
+Claude Code              10 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Codex Vscode             1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🐱‍💻 Projects: 
-my-books                 13 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-crypto-info-scraper      9 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-MiQi-Desktop             8 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-sleep-secret             7 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-esp32-clock              5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+my-books                 11 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+MiQi-Desktop             10 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+crypto-info-scraper      6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+sleep-secret             5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+esp32-clock              5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 💻 Operating System: 
-Windows                  61 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  54 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 6 mins (86.71%)
+⏱ AI Coding Time: 48 hrs 34 mins (88.55%)
 
-✍️ 35,855 lines written by AI, 12 lines written by hand (99.97% AI-written)
+✍️ 28,076 lines written by AI, 11 lines written by hand (99.96% AI-written)
 
-🔤 57,545,671 Input Tokens, 8,647,717 Output Tokens
+🔤 50,685,528 Input Tokens, 8,197,063 Output Tokens
 
-💵 $9436.05 Estimated AI Cost This Week
+💵 $8359.31 Estimated AI Cost This Week
 
-🧠 114 AI Sessions, 706 AI Prompts
+🧠 105 AI Sessions, 672 AI Prompts
 
-Claude-Code              30,079 lines        ███████████████████████░░   93.44 % 
-GPT                      1,427 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-DeepSeek                 686 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Claude-Code              22,585 lines        ███████████████████████░░   91.44 % 
+GPT                      1,427 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+DeepSeek                 686 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,121 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,091 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
+🚀 High AI Trust — 3.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:53:26 UTC
+ Last Updated on 15/10/2026 21:40:05 UTC
 <!--END_SECTION:waka-->
 
 <picture>
