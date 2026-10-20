@@ -14,7 +14,7 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,265 Contributions in the Year 2026
+> 🏆 4,293 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,50 +28,50 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Other                    7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Python                   7 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Text                     6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-TypeScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Python                   16 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Markdown                 15 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Other                    7 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Text                     5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+TypeScript               4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-VS Code                  27 hrs              ██████████████░░░░░░░░░░░   55.65 % 
-Claude Code              19 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   40.41 % 
-Codex Vscode             1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Claude Code              28 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.39 % 
+VS Code                  27 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.34 % 
+Codex Vscode             2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-my-books                 15 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.82 % 
-MiQi-Desktop             9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-crypto-info-scraper      6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-esp32-clock              4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-scripts                  3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+my-books                 18 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
+crypto-info-scraper      15 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+MiQi-Desktop             10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+scripts                  2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+B站硬币-CNC文件               2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 💻 Operating System: 
-Windows                  48 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  58 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs (88.59%)
+⏱ AI Coding Time: 53 hrs 51 mins (91.91%)
 
-✍️ 19,334 lines written by AI, 5 lines written by hand (99.97% AI-written)
+✍️ 24,878 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 68,131,676 Input Tokens, 6,094,835 Output Tokens
+🔤 108,650,274 Input Tokens, 7,518,919 Output Tokens
 
-💵 $5100.63 Estimated AI Cost This Week
+💵 $6188.21 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 653 AI Prompts
+🧠 145 AI Sessions, 836 AI Prompts
 
-Claude-Code              12,226 lines        █████████████████████░░░░   84.07 % 
-DeepSeek                 1,786 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-GPT                      531 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Claude-Code              15,274 lines        █████████████████████░░░░   85.53 % 
+DeepSeek                 2,053 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+GPT                      531 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 658 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:34:29 UTC
+ Last Updated on 20/10/2026 21:48:19 UTC
 <!--END_SECTION:waka-->
 
 <picture>
