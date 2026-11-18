@@ -1,14 +1,21 @@
 name: Waka Readme
 
+# 2026-11：WakaTime 已停用 API Key 读取统计数据（返回 403：
+# "API Keys are only for plugins, use your personal oauth token"），
+# 而 anmol098/waka-readme-stats 仍只支持 api_key，任务必然失败。
+# README 里的统计已改为 WakaTime 官方分享图（wakatime.com/share/@14790897/...），
+# 由 WakaTime 每日自动渲染，不再依赖此 workflow。
+# 若将来该 action 支持 OAuth access token，可恢复下面的 schedule。
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+  # schedule:
+  #   - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
