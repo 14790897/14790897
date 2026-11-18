@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 <p align="center">
-  <img src="https://wakatime.com/share/@14790897/54eec959-cb7a-4e41-8449-d93b04133f6a.svg" alt="Coding Activity (Last Year)" />
+  <img src="https://wakatime.com/share/@14790897/170be0e5-afe9-4f19-a241-0512c2000380.svg" alt="Coding Activity (Last Year)" />
 </p>
 
 <p align="center">
