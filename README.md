@@ -4,8 +4,6 @@
 </iframe> -->
 
 <!--START_SECTION:waka-->
-<p align="center"><sub>数据由 WakaTime 官方图表实时渲染，每日自动更新</sub></p>
-
 <p align="center">
   <img src="https://wakatime.com/share/@14790897/54eec959-cb7a-4e41-8449-d93b04133f6a.svg" alt="Coding Activity (Last Year)" />
 </p>
